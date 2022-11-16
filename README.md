@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20SujinLee%20%20&height=200&fontSize=100)
 
- <table >
- <tr  style="border='0';"><td  style="border='0';">
+ <table style="border:'0';">
+ <tr  style="border:'0';"><td  style="border:'0';">
 <img src="https://user-images.githubusercontent.com/50866572/202062870-9582aa1f-a613-4966-825a-2597a6857172.png" width="30px"/>
 </td>
- <td  style="border='0';">
+ <td  style="border:'0';">
 <span>nataya1116 / <b>README</b>.md</span>
 </td>
  </tr>
