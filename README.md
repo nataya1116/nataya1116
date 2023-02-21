@@ -4,6 +4,10 @@
 
 <br/>
  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nataya1116&show_icons=true&theme=transparent)](https://github.com/nataya1116/github-readme-stats) 
+ 
+<br/>
+ 
 💻 Platforms & Languages
 
 <img src="https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-F7DF1E?style=flat-square&logo=jQuery&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>
@@ -18,15 +22,17 @@
  
   <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 
+
 <br/>
- 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nataya1116&show_icons=true&theme=transparent)](https://github.com/nataya1116/github-readme-stats) 
- 
-
 
  
+🐸 Projects
  
+ <a href="https://github.com/EGG-MONG/EGG-NFT-STORE"><b>EGG-NFT-STORE</b></a>
  
+ <a href="https://github.com/nataya1116/React-Node-Project"><b>React-Node ToyProject</b></a>
+  
+ <a href="https://github.com/nataya1116/Memory-Game-Vanilla-JS"><b>Memory-Game-Vanilla-JS</b></a>
  
  
  
