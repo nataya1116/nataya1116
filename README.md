@@ -29,11 +29,13 @@
 🐸 Projects
  
  <a href="https://github.com/EGG-MONG/EGG-NFT-STORE"><b>EGG-NFT-STORE</b></a>
+ Solidity, Web3, React, Express, MongoDB 등으로 구현한 NFT 거래소. 본인 소유 NTF 민팅, 구매, 판매 기 배포자 한정 NFT 업로드 기능
  
  <a href="https://github.com/nataya1116/React-Node-Project"><b>React-Node ToyProject</b></a>
+ React와 Node.js로 구현한 로그인과 게시판 기능이 있는 웹 사이트.
   
  <a href="https://github.com/nataya1116/Memory-Game-Vanilla-JS"><b>Memory-Game-Vanilla-JS</b></a>
- 
+ Canvas를 사용하지 않고 바닐라 JavaScript만을 이용해서 메모리 게임을 구현
  
  
  
