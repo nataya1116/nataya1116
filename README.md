@@ -1,5 +1,5 @@
 
-🐸 My
+🐸 클린 코드를 좋아하는 개발자 이수진입니다.
 
 <a href="mailto:nataya1116@gmail.com"><img src="https://img.shields.io/badge/nataya1116@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://melodic-law-51a.notion.site/50b7e72af6ef48af8f60ace782db6b67?v=00775ff0ba944b309773ccf420e20ba3"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Gmail&logoColor=white"/><a>   
 
@@ -30,12 +30,15 @@
 💬 Projects
  
  <a href="https://github.com/EGG-MONG/EGG-NFT-STORE"><b>EGG-NFT-STORE</b></a>
+ <br>
  Solidity, Web3, React, Express, MongoDB 등으로 구현한 NFT 거래소. 본인 소유 NTF 민팅, 구매, 판매 기 배포자 한정 NFT 업로드 기능
  
  <a href="https://github.com/nataya1116/React-Node-Project"><b>React-Node ToyProject</b></a>
+ <br>
  React와 Node.js로 구현한 로그인과 게시판 기능이 있는 웹 사이트.
   
  <a href="https://github.com/nataya1116/Memory-Game-Vanilla-JS"><b>Memory-Game-Vanilla-JS</b></a>
+ <br>
  Canvas를 사용하지 않고 바닐라 JavaScript만을 이용해서 메모리 게임을 구현
  
  
