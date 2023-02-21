@@ -1,5 +1,6 @@
 
- 
+🐸 My
+
 <a href="mailto:nataya1116@gmail.com"><img src="https://img.shields.io/badge/nataya1116@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://melodic-law-51a.notion.site/50b7e72af6ef48af8f60ace782db6b67?v=00775ff0ba944b309773ccf420e20ba3"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Gmail&logoColor=white"/><a>   
 
 <br/>
@@ -26,7 +27,7 @@
 <br/>
 
  
-🐸 Projects
+💬 Projects
  
  <a href="https://github.com/EGG-MONG/EGG-NFT-STORE"><b>EGG-NFT-STORE</b></a>
  Solidity, Web3, React, Express, MongoDB 등으로 구현한 NFT 거래소. 본인 소유 NTF 민팅, 구매, 판매 기 배포자 한정 NFT 업로드 기능
