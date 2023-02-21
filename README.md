@@ -35,7 +35,7 @@
  
  <a href="https://github.com/nataya1116/React-Node-Project"><b>React-Node ToyProject</b></a>
  <br>
- React와 Node.js로 구현한 로그인과 게시판 기능이 있는 웹 사이트.
+ React와 Express 등으로 구현한 로그인과 게시판 기능이 있는 웹 사이트.
   
  <a href="https://github.com/nataya1116/Memory-Game-Vanilla-JS"><b>Memory-Game-Vanilla-JS</b></a>
  <br>
