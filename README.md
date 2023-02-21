@@ -39,7 +39,7 @@
   
  <a href="https://github.com/nataya1116/Memory-Game-Vanilla-JS"><b>Memory-Game-Vanilla-JS</b></a>
  <br>
- Canvas를 사용하지 않고 바닐라 JavaScript만을 이용해서 메모리 게임을 구현
+ Canvas를 사용하지 않고 바닐라 JavaScript만을 이용해서 구현한 메모리 게임
  
  
  
